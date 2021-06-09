@@ -1,5 +1,5 @@
 # React lists project
-Sample projecy with React, making CRUD operations in local memory.
+Sample projecy with React, Redux, and hooks, making CRUD operations in local memory.
 
 ## Available Scripts
 
